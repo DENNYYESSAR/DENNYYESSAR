@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennyyessar" alt="dennyyessar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [dennisokeri.tech](dennisokeri.tech)
-
-- 📫 How to reach me **dennisokeri5@gmail.com**
+- 📫 Reach me at **dennisokeri5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
